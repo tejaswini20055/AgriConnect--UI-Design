@@ -9,9 +9,9 @@ Farmers face challenges such as lack of expert advice, difficulty identifying cr
 AgriConnect addresses these issues by enabling direct communication between farmers and experts through a simple and user-friendly interface.
 
 UI DESIGN FEATURES:
-*Intuitive navigation and clean layout.
-*Sections for Discussions, Weather, Market Prices, and Government Schemes.
-*Focused on usability and accessibility for rural users.
+Intuitive navigation and clean layout.
+Sections for Discussions, Weather, Market Prices, and Government Schemes.
+Focused on usability and accessibility for rural users.
 
 TOOLS USED:
 Figma – for UI design.
